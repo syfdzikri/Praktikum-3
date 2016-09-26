@@ -1,4 +1,4 @@
-//Syifa Dzikri (22)
+//Syifa Dzikri Tsani (22)
 //Wildan Firdaus (21)
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(2,3,4,5,6,7);
